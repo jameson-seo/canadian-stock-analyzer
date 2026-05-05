@@ -37,13 +37,14 @@ A Python data analysis project that pulls 1 year of real stock market data for 1
 
 1. Clone the repo
 2. Install dependencies:
-
+```
 pip install pandas yfinance matplotlib
-
+```
 3. Collect data and run analysis:
-
+```
 python analysis.py
-
+```
 4. Generate charts:
-
+```
 python charts.py
+```
